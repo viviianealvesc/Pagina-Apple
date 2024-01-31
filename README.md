@@ -20,5 +20,6 @@ Este é um projeto de clone da página de relógios smart da Apple, onde foram a
 🔸 Explore as diferentes opções de customização disponíveis para os relógios.
 
 # 🌐 Link do projeto
+https://viviianealvesc.github.io/Pagina-Apple/
 
  
